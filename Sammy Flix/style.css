@@ -1,0 +1,38 @@
+header{
+   
+    font-size: 32px;
+    color: whitesmoke;
+    background: crimson;
+
+
+}
+body{
+    background: black;
+    color:whitesmoke;
+}
+
+
+section{
+    background-color: goldenrod;
+    color: black;
+}
+
+img{
+    height:200px;
+
+}
+
+.seletor{
+
+    display: flex;
+    overflow-x: auto ;
+    gap: 20px;
+}
+
+.seletor img {
+    opacity: 0.5;
+    
+}
+
+.seletor img :hover
+opa
